@@ -1,5 +1,9 @@
 # Project milestone 3 : creative extension
 
+- regarder la distributions des features dans la population de betrayers
+- clusteriser les messages (PCA et k means clustering par ex)
+- regarder si certains clusters de messages proviennent majoritairement de betrayers ou de victim oour dégager des messages types qui peuvent aider à la classification
+
 Title
 
 Abstract
