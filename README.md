@@ -16,18 +16,16 @@ In this project, we want to extend the work of the 'Linguistic harbingers of bet
 
 ### Methods
 Internal milestones :
-1) Finding the data : get the movie scripts, extract the relevant lines
-2) Training the model : choose a classification method, select features, train and validate the model on the data from the paper
-3) Processing the new data : extract the appropriate features and prepare a dataframe
-4) Testing the model : use the model to predict betrayals with the new data and evaluate results
-5) Report : prepare figures and write report or data story
-6) Video : write and make the presentation video
+1) Finding the data : get the movie scripts, extract the relevant lines.
+2) Perform an exploratory data analysis on the paper's dataset
+3) Create our own predictive model. 
+4) Processing the new data : extract the appropriate features and prepare a dataframe. We will have to use the lexicons used in the paper to extract the features used in our model. 
+5) Testing the model : use the model to predict betrayals with the new data and evaluate results.
+6) Report : prepare figures and write report or data story.
+7) Video : write and make the presentation video.
 
 Timeline :
-27/11 to 04/12 : milestones 1 and 2
-04/12 to 11/12 : milestones 3 and 4
-11/12 to 18/12 : milestones 5 and 6
-(add sketch + qui fait quoi)
+<img src="P3_timeline.png">
 
 ### Questions for TAs (optional)
 We think doing this project with movie scripts would be really interesting and a lot of fun, but maybe it's too complicated and ambitious, in which case, we thought about a "backup" project. Using the dataset from the paper, we could do an exploratory data analysis, looking at the distribution of the different features among the population of betrayers to see if there are different "profiles" of betrayers, and use a clustering method on the messages (maybe do a PCA then use k-means) to try to find different message types, and if certain types are mostly sent by betrayers. 
