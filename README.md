@@ -1,4 +1,4 @@
-#Important remark
+# Important remark
 For techical reasons and the sake of clarity, we did the data processing in a separate file ("feature_extraction"). The notebook containing the analysis is "extension.ipynb".
 
 # Project milestone 4
