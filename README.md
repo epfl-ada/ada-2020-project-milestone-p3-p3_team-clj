@@ -1,5 +1,7 @@
 # Project milestone 3 : creative extension
 
+After discussion with our TA, the project descripted below appeared to be to complex, and not really relevant given the lack of data. Instead, we used another Diplomacy data set by the authors of the "Linguistic harbingers of betrayal" paper, where each message was annotated by the players as lie or truth (intended or perceived); and tried to analyse this new dataset by exploring the same features described in the paper.
+
 ## Predicting betrayals in movies
 
 ### Abstract
